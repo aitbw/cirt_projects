@@ -1,5 +1,7 @@
 # Proyectos CIRT
 
+![logo](./images/logo_cirt.png)
+
 Esta es una lista de proyectos para la célula de Desarrollo de Software de CIRT, el cual es un grupo de proyectos que forma parte de la Universidad Tecnológica del Centro (UNITEC), en Venezuela.
 
 Los proyectos que se describen a continuación fueron diseñados para que los integrantes de la célula de este proyecto puedan poner en práctica lo aprendido tanto en clases como en las sesiones de proyecto.
