@@ -8,11 +8,11 @@ Los proyectos que se describen a continuación fueron diseñados para que los in
 Sin embargo, se invita a los interesados a colaborar agregando nuevos proyectos o mejorando los ya existentes.
 
 ## Proyectos disponibles
-* [Proyecto #1](./projects/project_1.md) — Blog — Fácil
-* [Proyecto #2](./projects/project_2.md) — Reseña de libros — Fácil
-* [Proyecto #3](./projects/project_3.md) — Clon de Reddit — Fácil
-* [Proyecto #4](./projects/project_4.md) — Tienda de música — Intermedio
-* [Proyecto #5](./projects/project_5.md) — Clon de Twitter — Intermedio
+* [Proyecto #1](./projects/project_1.md) — Blog
+* [Proyecto #2](./projects/project_2.md) — Reseña de libros
+* [Proyecto #3](./projects/project_3.md) — Clon de Reddit
+* [Proyecto #4](./projects/project_4.md) — Tienda de música
+* [Proyecto #5](./projects/project_5.md) — Clon de Twitter
 * [Proyecto #6](./projects/project_6.md) — En desarrollo
 * [Proyecto #7](./projects/project_7.md) — En desarrollo
 * [Proyecto #8](./projects/project_8.md) — En desarrollo
