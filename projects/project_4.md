@@ -53,3 +53,7 @@ Si el estudiante así lo desea, puede implementar alguno de los siguientes punto
 * Los usuarios registrados pueden comentar los discos que compren
 * Ofrecer a los usuarios pre-venta de álbumes seleccionados
 * Diseño _responsive_
+
+## Limitaciones
+
+Ninguna más allá del tiempo establecido para elaborar este proyecto.
