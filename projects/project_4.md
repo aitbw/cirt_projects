@@ -28,10 +28,11 @@ Para que esta aplicación sea considerada _production-ready_, la misma debe cump
    * Género musical
    * _Tracklist_ (en orden y con la duración de cada canción)
 
-6. Carrito de compras (los usuarios pueden agregar álbumes para su posterior compra, así como también pueden eliminarlos)
-7. Compra de los ítems en el carrito
-8. Generación de un _invoice_ por cada compra que haga un usuario (+ almacenar dicho _invoice_ dentro de la BDD)
-9. La BDD deberá tener información precargada al momento que el primer usuario se registre
+6. Búsqueda de artistas o álbumes
+7. Carrito de compras (los usuarios pueden agregar álbumes para su posterior compra, así como también pueden eliminarlos)
+8. Compra de los ítems en el carrito
+9. Generación de un _invoice_ por cada compra que haga un usuario (+ almacenar dicho _invoice_ dentro de la BDD)
+10. La BDD deberá tener información precargada al momento que el primer usuario se registre
 
 ## Consideraciones adicionales
 
