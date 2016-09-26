@@ -35,6 +35,7 @@ Sin embargo, se invita a los interesados a colaborar agregando nuevos proyectos 
 * [Introduction to the Art of Programming Using Scala (Part II)](https://www.youtube.com/playlist?list=PLF6CAC63C615DB881) — Segunda parte del video-tutorial de Mark Lewis
 * [Reddit's Daily Programmer](https://www.reddit.com/r/DailyProgrammer) — Ejercicios diarios de programación
 * [Project Euler](https://projecteuler.net/) — Ejercicios matemáticos de programación
+* [Coding Rainbow](https://www.youtube.com/user/shiffman) — Tutoriales de programación creativos y divertidos de la mano de Daniel Shiffman (con Javascript)
 
 ## ¿Cómo colaborar?
 * Clona este repositorio
