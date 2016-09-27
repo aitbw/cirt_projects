@@ -14,7 +14,7 @@ Sin embargo, se invita a los interesados a colaborar agregando nuevos proyectos 
 * [Proyecto #4](./projects/project_4.md) — Tienda de música
 * [Proyecto #5](./projects/project_5.md) — Clon de Twitter
 * [Proyecto #6](./projects/project_6.md) — Libro de recetas
-* [Proyecto #7](./projects/project_7.md) — En desarrollo
+* [Proyecto #7](./projects/project_7.md) — Control de inventario de libros
 * [Proyecto #8](./projects/project_8.md) — En desarrollo
 * [Proyecto #9](./projects/project_9.md) — En desarrollo
 
