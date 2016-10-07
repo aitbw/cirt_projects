@@ -43,8 +43,5 @@ Sin embargo, se invita a los interesados a colaborar agregando nuevos proyectos 
 * Commit!
 * Enviame un *pull request*
 
-## Licencia
-[MIT](./LICENSE) ♥
-
 ## Social
 Puedes seguirme en Twitter como [@AITBW](https://twitter.com/AITBW)
