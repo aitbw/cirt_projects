@@ -7,6 +7,12 @@ Esta es una lista de proyectos para la célula de Desarrollo de Software de CIRT
 Los proyectos que se describen a continuación fueron diseñados para que los integrantes de la célula de este proyecto puedan poner en práctica lo aprendido tanto en clases como en las sesiones de proyecto.
 Sin embargo, se invita a los interesados a colaborar agregando nuevos proyectos o mejorando los ya existentes.
 
+## Tabla de contenidos
+* [Proyectos disponibles](#proyectos-disponibles)
+* [Recursos](#recursos)
+* [¿Cómo colaborar?](#cómo-colaborar)
+* [Social](#social)
+
 ## Proyectos disponibles
 * [Proyecto #1](./projects/project_1.md) — Blog
 * [Proyecto #2](./projects/project_2.md) — Reseña de libros
